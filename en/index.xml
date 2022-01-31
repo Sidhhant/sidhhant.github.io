@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Hugo Zzo Theme</title>
-    <link>https://elated-lumiere-225c1a.netlify.com/en/</link>
+    <link>https://sidhhant.github.io/en/</link>
     <description>Recent content on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Tue, 01 Feb 2022 04:30:58 +0900</lastBuildDate>
     
-        <atom:link href="https://elated-lumiere-225c1a.netlify.com/en/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://sidhhant.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     
       
       
@@ -25,11 +25,11 @@
       
       <item>
         <title>Website</title>
-        <link>https://elated-lumiere-225c1a.netlify.com/en/gallery/website/</link>
+        <link>https://sidhhant.github.io/en/gallery/website/</link>
         <pubDate>Tue, 01 Feb 2022 04:30:58 +0900</pubDate>
         <author>zzossig@gmail.com (zzossig)</author>
         <atom:modified>Tue, 01 Feb 2022 04:30:58 +0900</atom:modified>
-        <guid>https://elated-lumiere-225c1a.netlify.com/en/gallery/website/</guid>
+        <guid>https://sidhhant.github.io/en/gallery/website/</guid>
         <description></description>
         
         <dc:creator>zzossig</dc:creator>
@@ -55,11 +55,11 @@
       
       <item>
         <title>My Awesome links</title>
-        <link>https://elated-lumiere-225c1a.netlify.com/en/talks/mylinks/</link>
+        <link>https://sidhhant.github.io/en/talks/mylinks/</link>
         <pubDate>Tue, 31 Dec 2019 00:04:50 +0900</pubDate>
         <author>zzossig@gmail.com (zzossig)</author>
         <atom:modified>Tue, 31 Dec 2019 00:04:50 +0900</atom:modified>
-        <guid>https://elated-lumiere-225c1a.netlify.com/en/talks/mylinks/</guid>
+        <guid>https://sidhhant.github.io/en/talks/mylinks/</guid>
         <description></description>
         
         <dc:creator>zzossig</dc:creator>

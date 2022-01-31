@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://elated-lumiere-225c1a.netlify.com/ko/categories/</loc>
+    <loc>https://sidhhant.github.io/ko/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://elated-lumiere-225c1a.netlify.com/en/categories/"
+                href="https://sidhhant.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://elated-lumiere-225c1a.netlify.com/ko/categories/"
+                href="https://sidhhant.github.io/ko/categories/"
                 />
   </url><url>
-    <loc>https://elated-lumiere-225c1a.netlify.com/ko/</loc>
+    <loc>https://sidhhant.github.io/ko/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://elated-lumiere-225c1a.netlify.com/en/"
+                href="https://sidhhant.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://elated-lumiere-225c1a.netlify.com/ko/"
+                href="https://sidhhant.github.io/ko/"
                 />
   </url><url>
-    <loc>https://elated-lumiere-225c1a.netlify.com/ko/series/</loc>
+    <loc>https://sidhhant.github.io/ko/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://elated-lumiere-225c1a.netlify.com/en/series/"
+                href="https://sidhhant.github.io/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://elated-lumiere-225c1a.netlify.com/ko/series/"
+                href="https://sidhhant.github.io/ko/series/"
                 />
   </url><url>
-    <loc>https://elated-lumiere-225c1a.netlify.com/ko/tags/</loc>
+    <loc>https://sidhhant.github.io/ko/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://elated-lumiere-225c1a.netlify.com/en/tags/"
+                href="https://sidhhant.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://elated-lumiere-225c1a.netlify.com/ko/tags/"
+                href="https://sidhhant.github.io/ko/tags/"
                 />
   </url>
 </urlset>

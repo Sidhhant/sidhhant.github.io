@@ -2,65 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://elated-lumiere-225c1a.netlify.com/en/gallery/</loc>
+    <loc>https://sidhhant.github.io/en/gallery/</loc>
     <lastmod>2022-02-01T04:30:58+09:00</lastmod>
   </url><url>
-    <loc>https://elated-lumiere-225c1a.netlify.com/en/</loc>
+    <loc>https://sidhhant.github.io/en/</loc>
     <lastmod>2022-02-01T04:30:58+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://elated-lumiere-225c1a.netlify.com/ko/"
+                href="https://sidhhant.github.io/ko/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://elated-lumiere-225c1a.netlify.com/en/"
+                href="https://sidhhant.github.io/en/"
                 />
   </url><url>
-    <loc>https://elated-lumiere-225c1a.netlify.com/en/gallery/website/</loc>
+    <loc>https://sidhhant.github.io/en/gallery/website/</loc>
     <lastmod>2022-02-01T04:30:58+09:00</lastmod>
   </url><url>
-    <loc>https://elated-lumiere-225c1a.netlify.com/en/talks/mylinks/</loc>
+    <loc>https://sidhhant.github.io/en/talks/mylinks/</loc>
     <lastmod>2019-12-31T00:04:50+09:00</lastmod>
   </url><url>
-    <loc>https://elated-lumiere-225c1a.netlify.com/en/talks/</loc>
+    <loc>https://sidhhant.github.io/en/talks/</loc>
     <lastmod>2019-12-30T11:14:14+09:00</lastmod>
   </url><url>
-    <loc>https://elated-lumiere-225c1a.netlify.com/en/categories/</loc>
+    <loc>https://sidhhant.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://elated-lumiere-225c1a.netlify.com/ko/categories/"
+                href="https://sidhhant.github.io/ko/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://elated-lumiere-225c1a.netlify.com/en/categories/"
+                href="https://sidhhant.github.io/en/categories/"
                 />
   </url><url>
-    <loc>https://elated-lumiere-225c1a.netlify.com/en/series/</loc>
+    <loc>https://sidhhant.github.io/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://elated-lumiere-225c1a.netlify.com/ko/series/"
+                href="https://sidhhant.github.io/ko/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://elated-lumiere-225c1a.netlify.com/en/series/"
+                href="https://sidhhant.github.io/en/series/"
                 />
   </url><url>
-    <loc>https://elated-lumiere-225c1a.netlify.com/en/tags/</loc>
+    <loc>https://sidhhant.github.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://elated-lumiere-225c1a.netlify.com/ko/tags/"
+                href="https://sidhhant.github.io/ko/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://elated-lumiere-225c1a.netlify.com/en/tags/"
+                href="https://sidhhant.github.io/en/tags/"
                 />
   </url>
 </urlset>
