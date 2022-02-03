@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>RubikRevenge</title>
-    <link>https://sidhhant.github.io/en/</link>
-    <description>Recent content on RubikRevenge</description>
+    <title>Mindmaps on RubikRevenge</title>
+    <link>https://sidhhant.github.io/en/mindmaps/</link>
+    <description>Recent content in Mindmaps on RubikRevenge</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>sidhhant.t20@gmail.com (Sidhhant Bhushan)</managingEditor>
@@ -16,34 +16,9 @@
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Tue, 01 Feb 2022 19:36:19 +0900</lastBuildDate>
     
-        <atom:link href="https://sidhhant.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://sidhhant.github.io/en/mindmaps/index.xml" rel="self" type="application/rss+xml" />
     
-      
-      
-      
 
-      
-      <item>
-        <title>About</title>
-        <link>https://sidhhant.github.io/en/about/</link>
-        <pubDate>Thu, 03 Feb 2022 08:32:42 +0900</pubDate>
-        <author>sidhhant.t20@gmail.com (Sidhhant Bhushan)</author>
-        <atom:modified>Thu, 03 Feb 2022 08:32:42 +0900</atom:modified>
-        <guid>https://sidhhant.github.io/en/about/</guid>
-        <description> Hello My name is Sidhhant Bhushan.
-I have done B.Tech from IIT Roorkee.
-Currently working as a Software Developer for Mercari, Japan.
-Mostly interested in programming, finance and video games.
- </description>
-        
-        <dc:creator>Sidhhant Bhushan</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
       
       <item>
         <title>Number Of Islands</title>
