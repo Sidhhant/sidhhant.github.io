@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Notes on RubikRevenge</title>
+    <link>https://sidhhant.github.io/en/notes/</link>
+    <description>Recent content in Notes on RubikRevenge</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>sidhhant.t20@gmail.com (Sidhhant Bhushan)</managingEditor>
+    <webMaster>sidhhant.t20@gmail.com (Sidhhant Bhushan)</webMaster>
+    <copyright>©2022, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 06 Feb 2022 22:24:54 +0900</lastBuildDate>
+    
+        <atom:link href="https://sidhhant.github.io/en/notes/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Port Flow</title>
+        <link>https://sidhhant.github.io/en/notes/what_port/</link>
+        <pubDate>Sun, 06 Feb 2022 22:25:27 +0900</pubDate>
+        <author>sidhhant.t20@gmail.com (Sidhhant Bhushan)</author>
+        <atom:modified>Sun, 06 Feb 2022 22:25:27 +0900</atom:modified>
+        <guid>https://sidhhant.github.io/en/notes/what_port/</guid>
+        <description>Port Connection Flow
+Port 80: Default http
+Port 443: Default https (TLS encrypted)
+Port 53: Default DNS
+This flow is when your brower wants to connect to a site example.com for the very first time and your local DNS is unencrypted.
+As browser doesn&amp;rsquo;t know the IP address related to example.com it will do a DNS query which will connect to default DNS port 53. Then it will try to connect via HTTP to example.</description>
+        
+        <dc:creator>Sidhhant Bhushan</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

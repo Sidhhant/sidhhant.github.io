@@ -25,11 +25,11 @@
       
       <item>
         <title>Port Flow</title>
-        <link>https://sidhhant.github.io/en/blogs/what_port/</link>
+        <link>https://sidhhant.github.io/en/notes/what_port/</link>
         <pubDate>Sun, 06 Feb 2022 22:25:27 +0900</pubDate>
         <author>sidhhant.t20@gmail.com (Sidhhant Bhushan)</author>
         <atom:modified>Sun, 06 Feb 2022 22:25:27 +0900</atom:modified>
-        <guid>https://sidhhant.github.io/en/blogs/what_port/</guid>
+        <guid>https://sidhhant.github.io/en/notes/what_port/</guid>
         <description>Port Connection Flow
 Port 80: Default http
 Port 443: Default https (TLS encrypted)
