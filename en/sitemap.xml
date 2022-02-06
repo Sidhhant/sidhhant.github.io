@@ -2,17 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sidhhant.github.io/en/about/</loc>
-    <lastmod>2022-02-03T08:32:42+09:00</lastmod>
-  </url><url>
-    <loc>https://sidhhant.github.io/en/mindmaps/</loc>
-    <lastmod>2022-02-01T19:36:19+09:00</lastmod>
-  </url><url>
-    <loc>https://sidhhant.github.io/en/mindmaps/numberofislands/</loc>
-    <lastmod>2022-02-01T19:36:19+09:00</lastmod>
+    <loc>https://sidhhant.github.io/en/blogs/what_port/</loc>
+    <lastmod>2022-02-06T22:25:27+09:00</lastmod>
   </url><url>
     <loc>https://sidhhant.github.io/en/</loc>
-    <lastmod>2022-02-01T19:36:19+09:00</lastmod>
+    <lastmod>2022-02-06T22:25:27+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -23,6 +17,18 @@
                 hreflang="en"
                 href="https://sidhhant.github.io/en/"
                 />
+  </url><url>
+    <loc>https://sidhhant.github.io/en/blogs/</loc>
+    <lastmod>2022-02-06T22:24:54+09:00</lastmod>
+  </url><url>
+    <loc>https://sidhhant.github.io/en/about/</loc>
+    <lastmod>2022-02-03T08:32:42+09:00</lastmod>
+  </url><url>
+    <loc>https://sidhhant.github.io/en/mindmaps/</loc>
+    <lastmod>2022-02-01T19:36:19+09:00</lastmod>
+  </url><url>
+    <loc>https://sidhhant.github.io/en/mindmaps/numberofislands/</loc>
+    <lastmod>2022-02-01T19:36:19+09:00</lastmod>
   </url><url>
     <loc>https://sidhhant.github.io/en/categories/</loc>
     <xhtml:link

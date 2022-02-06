@@ -14,7 +14,7 @@
     <managingEditor>sidhhant.t20@gmail.com (Sidhhant Bhushan)</managingEditor>
     <webMaster>sidhhant.t20@gmail.com (Sidhhant Bhushan)</webMaster>
     <copyright>©2022, All Rights Reserved</copyright>
-    <lastBuildDate>Tue, 01 Feb 2022 19:36:19 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 06 Feb 2022 22:25:27 +0900</lastBuildDate>
     
         <atom:link href="https://sidhhant.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     
@@ -22,6 +22,29 @@
       
       
 
+      
+      <item>
+        <title>Port Flow</title>
+        <link>https://sidhhant.github.io/en/blogs/what_port/</link>
+        <pubDate>Sun, 06 Feb 2022 22:25:27 +0900</pubDate>
+        <author>sidhhant.t20@gmail.com (Sidhhant Bhushan)</author>
+        <atom:modified>Sun, 06 Feb 2022 22:25:27 +0900</atom:modified>
+        <guid>https://sidhhant.github.io/en/blogs/what_port/</guid>
+        <description>Port Connection Flow
+Port 80: Default http
+Port 443: Default https (TLS encrypted)
+Port 53: Default DNS
+This flow is when your brower wants to connect to a site example.com for the very first time and your local DNS is unencrypted.
+As browser doesn&amp;rsquo;t know the IP address related to example.com it will do a DNS query which will connect to default DNS port 53. Then it will try to connect via HTTP to example.</description>
+        
+        <dc:creator>Sidhhant Bhushan</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>About</title>
