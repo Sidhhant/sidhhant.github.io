@@ -14,7 +14,7 @@
     <managingEditor>sidhhant.t20@gmail.com (Sidhhant Bhushan)</managingEditor>
     <webMaster>sidhhant.t20@gmail.com (Sidhhant Bhushan)</webMaster>
     <copyright>©2022, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 06 Feb 2022 22:25:27 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 07 Feb 2022 03:40:48 +0900</lastBuildDate>
     
         <atom:link href="https://sidhhant.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     
@@ -22,6 +22,25 @@
       
       
 
+      
+      <item>
+        <title>RobotRoomCleaner</title>
+        <link>https://sidhhant.github.io/en/mindmaps/robotroomcleaner/</link>
+        <pubDate>Mon, 07 Feb 2022 03:40:48 +0900</pubDate>
+        <author>sidhhant.t20@gmail.com (Sidhhant Bhushan)</author>
+        <atom:modified>Mon, 07 Feb 2022 03:40:48 +0900</atom:modified>
+        <guid>https://sidhhant.github.io/en/mindmaps/robotroomcleaner/</guid>
+        <description>Smartly relating some leetcode problems to learn core concepts and remember a few variants of that simple problem.
+This mindmaps connects similar robot movement on a grid problems. Relating different variants like dfs, bfs, dijkstra and backtrack of Robot Room Cleaner problem.</description>
+        
+        <dc:creator>Sidhhant Bhushan</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>Port Flow</title>

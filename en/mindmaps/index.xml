@@ -21,6 +21,25 @@
 
       
       <item>
+        <title>RobotRoomCleaner</title>
+        <link>https://sidhhant.github.io/en/mindmaps/robotroomcleaner/</link>
+        <pubDate>Mon, 07 Feb 2022 03:40:48 +0900</pubDate>
+        <author>sidhhant.t20@gmail.com (Sidhhant Bhushan)</author>
+        <atom:modified>Mon, 07 Feb 2022 03:40:48 +0900</atom:modified>
+        <guid>https://sidhhant.github.io/en/mindmaps/robotroomcleaner/</guid>
+        <description>Smartly relating some leetcode problems to learn core concepts and remember a few variants of that simple problem.
+This mindmaps connects similar robot movement on a grid problems. Relating different variants like dfs, bfs, dijkstra and backtrack of Robot Room Cleaner problem.</description>
+        
+        <dc:creator>Sidhhant Bhushan</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
         <title>Number Of Islands</title>
         <link>https://sidhhant.github.io/en/mindmaps/numberofislands/</link>
         <pubDate>Tue, 01 Feb 2022 19:36:19 +0900</pubDate>
