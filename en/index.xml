@@ -14,7 +14,7 @@
     <managingEditor>sidhhant.t20@gmail.com (Sidhhant Bhushan)</managingEditor>
     <webMaster>sidhhant.t20@gmail.com (Sidhhant Bhushan)</webMaster>
     <copyright>©2022, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 07 Feb 2022 03:40:48 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 15 Feb 2022 23:35:35 +0900</lastBuildDate>
     
         <atom:link href="https://sidhhant.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     
@@ -22,6 +22,34 @@
       
       
 
+      
+      <item>
+        <title>Stay Updated as Software Engineer</title>
+        <link>https://sidhhant.github.io/en/notes/update_engineer/</link>
+        <pubDate>Tue, 15 Feb 2022 23:35:35 +0900</pubDate>
+        <author>sidhhant.t20@gmail.com (Sidhhant Bhushan)</author>
+        <atom:modified>Tue, 15 Feb 2022 23:35:35 +0900</atom:modified>
+        <guid>https://sidhhant.github.io/en/notes/update_engineer/</guid>
+        <description>As a Software Engineer you have to stay updated with all the new advancements and trends in IT Sector.
+Plan
+  Read blogs/newsletter
+Example: Reddit, Hacker News, Medium, freeCodeCamp
+  Read books
+Top 10 book recommendation by GFG
+  Take online courses
+Example: coursera, udemy, MIT opencourseware
+  Attend conferences/meetups
+  Do side projects or take part in competitions
+  </description>
+        
+        <dc:creator>Sidhhant Bhushan</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>RobotRoomCleaner</title>
