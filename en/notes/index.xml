@@ -21,6 +21,30 @@
 
       
       <item>
+        <title>CAP Theorem</title>
+        <link>https://sidhhant.github.io/en/notes/cap/</link>
+        <pubDate>Thu, 17 Mar 2022 00:24:24 +0900</pubDate>
+        <author>sidhhant.t20@gmail.com (Sidhhant Bhushan)</author>
+        <atom:modified>Thu, 17 Mar 2022 00:24:24 +0900</atom:modified>
+        <guid>https://sidhhant.github.io/en/notes/cap/</guid>
+        <description>CAP Theorem states that a distributed system can only satisfy 2 out of 3 properties simultaneously.
+C = Consistency
+In a Consistent system, all nodes see same data and will return same, most recent write.
+A = Availability
+It means that a system will be available all the time, regardless that some nodes are down or all nodes don&amp;rsquo;t have same data.
+P = Partition Tolerance
+It means even if communication between nodes break, system will continue to work.</description>
+        
+        <dc:creator>Sidhhant Bhushan</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
         <title>Stay Updated as Software Engineer</title>
         <link>https://sidhhant.github.io/en/notes/update_engineer/</link>
         <pubDate>Tue, 15 Feb 2022 23:35:35 +0900</pubDate>
